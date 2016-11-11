@@ -1,2 +1,4 @@
-##简单绘制雷达图
-没做适配，只提供基本思路
+##绠�鍗曠粯鍒堕浄杈惧浘
+娌″仛閫傞厤锛屽彧鎻愪緵鍩烘湰鎬濊矾
+
+![](https://github.com/cheng136438/android-Radar-map/raw/master/radarmap.png) 聽
